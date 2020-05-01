@@ -4,3 +4,7 @@
 
 
 2. addOneToNumber.py ---> Given a non-negative number represented as an array of digits, add 1 to the number. The digits are stored such that the most significant digit is at the head of the list.
+
+3. largestNumber.py ---> Given a list of non negative integers, arrange them such that they form the largest number.
+
+4. waveArray.py ---> Given an array of integers, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5.....
