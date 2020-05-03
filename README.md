@@ -8,3 +8,7 @@
 3. largestNumber.py ---> Given a list of non negative integers, arrange them such that they form the largest number.
 
 4. waveArray.py ---> Given an array of integers, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5.....
+
+5. Pascal_Triangle.ipynb ---> Implementation of Pascal Triangle.
+
+6. 
