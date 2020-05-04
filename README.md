@@ -9,6 +9,7 @@
 
 4. waveArray.py ---> Given an array of integers, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5.....
 
-5. Pascal_Triangle.ipynb ---> Implementation of Pascal Triangle.
+5. Pascal_Triangle.ipynb ---> Implementation of Pascal Triangle. 
+							  Find rows in Pascal Triangle.
 
-6. 
+6. Find_Duplicate_In_Arrays.ipynb ---> Find any duplicate number present in given array, if not present return -1.
